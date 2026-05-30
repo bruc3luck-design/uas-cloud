@@ -5,7 +5,7 @@
 // TIDAK ada hardcode credential di sini.
 // ============================================================
 
-define('APP_NAME',    'UAS Cloud Computing II');
+define('APP_NAME',    'UAS Administrasi Server');
 define('APP_VERSION', '1.0.0');
 define('APP_NIM',     '2388010022');
 
