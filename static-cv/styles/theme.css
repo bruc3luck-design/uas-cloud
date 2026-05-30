@@ -1,0 +1,13 @@
+:root {
+  --background: #050505;
+  --surface: rgba(11, 11, 18, 0.78);
+  --surface-strong: rgba(18, 18, 28, 0.88);
+  --surface-border: rgba(255, 255, 255, 0.1);
+  --foreground: #ffffff;
+  --muted: #d1d5db;
+  --primary: #8b5cf6;
+  --secondary: #a855f7;
+  --tertiary: #6366f1;
+  --noise:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 160 160'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Ccircle cx='12' cy='18' r='1'/%3E%3Ccircle cx='45' cy='26' r='1'/%3E%3Ccircle cx='80' cy='44' r='1'/%3E%3Ccircle cx='130' cy='22' r='1'/%3E%3Ccircle cx='16' cy='72' r='1'/%3E%3Ccircle cx='62' cy='84' r='1'/%3E%3Ccircle cx='112' cy='76' r='1'/%3E%3Ccircle cx='142' cy='92' r='1'/%3E%3Ccircle cx='28' cy='128' r='1'/%3E%3Ccircle cx='76' cy='138' r='1'/%3E%3Ccircle cx='124' cy='140' r='1'/%3E%3C/g%3E%3C/svg%3E");
+}
